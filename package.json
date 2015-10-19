@@ -1,0 +1,22 @@
+{
+  "name": "neural",
+  "version": "1.0.0",
+  "description": "Tests with a Neural Network",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugesuccess/Neural.git"
+  },
+  "author": "HugeSuccess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugesuccess/Neural/issues"
+  },
+  "homepage": "https://github.com/hugesuccess/Neural#readme",
+  "dependencies": {
+    "brain": "^0.7.0"
+  }
+}
