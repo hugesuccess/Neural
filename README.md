@@ -22,7 +22,12 @@ Iterations             Output
 
 Iterations            Output
 10           [ 0.06987202916794236 ]
-100
+100          [ 0.05869253674037926 ]
+1,000        [ 0.020566353292603402 ]
+10,000       [ 0.008672878678490998 ]
+100,000      [ 0.0025137169977617895 ]
+1,000,000    [ 0.0007658981520047165 ]
+10,000,000   FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - process out of memory
 
 ### Notes
 

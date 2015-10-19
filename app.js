@@ -7,9 +7,7 @@ var brain = require("brain"),
 var testData = [], x, y;
 
 
-console.log(x);
-
-for(var i = 0; i < 100; i++) {
+for(var i = 0; i < 10000000; i++) {
   x = Math.floor(Math.random() / 2 );
   y = Math.floor(Math.random() / 2 );
   testData.push({input: [x, y], output: [x + y]});
